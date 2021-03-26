@@ -6,16 +6,14 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: mathanimas 
+    name: Mathias Hofmann
+    initials: MH
+    orcid: 0000-0001-7542-0243
+    twitter: thamias27
+    email: mathias.hofmann@tu-dresden.de
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
+      - CODIP, Technische Universität Dresden
   - github: janeroe
     name: Jane Roe
     initials: JR
@@ -24,3 +22,5 @@ authors:
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
+    funders:
+      - Grant XXXXXXXX
