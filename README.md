@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/mathanimas/manubot-test/tree/gh-pages) branch hosts the contents of this directory at <https://mathanimas.github.io/manubot-test/>.
-The permalink for this webpage version is <https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/>.
+The permalink for this webpage version is <https://mathanimas.github.io/manubot-test/v/22583c8fb648b35dfcafd7a45d569b216fde16dc/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://mathanimas.github.io/manubot-test/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c`](https://github.com/mathanimas/manubot-test/commit/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c).
+[`22583c8fb648b35dfcafd7a45d569b216fde16dc`](https://github.com/mathanimas/manubot-test/commit/22583c8fb648b35dfcafd7a45d569b216fde16dc).
