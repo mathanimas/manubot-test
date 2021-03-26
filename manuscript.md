@@ -7,7 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2021-03-26'
 author-meta:
-- John Doe
+- Mathias Hofmann
 - Jane Roe
 header-includes: |-
   <!--
@@ -27,10 +27,10 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="Mathias Hofmann" />
+  <meta name="citation_author_institution" content="CODIP, Technische Universität Dresden" />
+  <meta name="citation_author_orcid" content="0000-0001-7542-0243" />
+  <meta name="twitter:creator" content="@thamias27" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://mathanimas.github.io/manubot-test/" />
   <meta name="citation_pdf_url" content="https://mathanimas.github.io/manubot-test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://mathanimas.github.io/manubot-test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://mathanimas.github.io/manubot-test/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_html_url_versioned" content="https://mathanimas.github.io/manubot-test/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://mathanimas.github.io/manubot-test/v/f09ce13278540620afe5a67840ef23284d4d83f9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/" />
+  <meta name="manubot_html_url_versioned" content="https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://mathanimas.github.io/manubot-test/v/f09ce13278540620afe5a67840ef23284d4d83f9/))
+([permalink](https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/))
 was automatically generated
-from [mathanimas/manubot-test@f09ce13](https://github.com/mathanimas/manubot-test/tree/f09ce13278540620afe5a67840ef23284d4d83f9)
+from [mathanimas/manubot-test@59f6fe9](https://github.com/mathanimas/manubot-test/tree/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c)
 on March 26, 2021.
 </em></small>
 
@@ -75,16 +75,15 @@ on March 26, 2021.
 
 
 
-+ **John Doe**<br>
++ **Mathias Hofmann**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-7542-0243](https://orcid.org/0000-0001-7542-0243)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [mathanimas](https://github.com/mathanimas)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [thamias27](https://twitter.com/thamias27)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     CODIP, Technische Universität Dresden
   </small>
 
 + **Jane Roe**<br>
@@ -94,6 +93,7 @@ on March 26, 2021.
     [janeroe](https://github.com/janeroe)<br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
+     · Funded by Grant XXXXXXXX
   </small>
 
 
