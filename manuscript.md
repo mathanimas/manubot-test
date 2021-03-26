@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: My first Manubot paper
 keywords:
 - markdown
 - publishing
@@ -15,10 +15,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="My first Manubot paper" />
+  <meta name="citation_title" content="My first Manubot paper" />
+  <meta property="og:title" content="My first Manubot paper" />
+  <meta property="twitter:title" content="My first Manubot paper" />
   <meta name="dc.date" content="2021-03-26" />
   <meta name="citation_publication_date" content="2021-03-26" />
   <meta name="dc.language" content="en-US" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://mathanimas.github.io/manubot-test/" />
   <meta name="citation_pdf_url" content="https://mathanimas.github.io/manubot-test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://mathanimas.github.io/manubot-test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/" />
-  <meta name="manubot_html_url_versioned" content="https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://mathanimas.github.io/manubot-test/v/22583c8fb648b35dfcafd7a45d569b216fde16dc/" />
+  <meta name="manubot_html_url_versioned" content="https://mathanimas.github.io/manubot-test/v/22583c8fb648b35dfcafd7a45d569b216fde16dc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://mathanimas.github.io/manubot-test/v/22583c8fb648b35dfcafd7a45d569b216fde16dc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://mathanimas.github.io/manubot-test/v/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c/))
+([permalink](https://mathanimas.github.io/manubot-test/v/22583c8fb648b35dfcafd7a45d569b216fde16dc/))
 was automatically generated
-from [mathanimas/manubot-test@59f6fe9](https://github.com/mathanimas/manubot-test/tree/59f6fe9163e8958bb5cd5ace3a9cc5d444ca317c)
+from [mathanimas/manubot-test@22583c8](https://github.com/mathanimas/manubot-test/tree/22583c8fb648b35dfcafd7a45d569b216fde16dc)
 on March 26, 2021.
 </em></small>
 
